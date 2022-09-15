@@ -1,5 +1,5 @@
-Elton LCCE
+Name: Elton LCCE
 
-12345678
+ID: 12345678
 
 ![record](screenshot.png)
